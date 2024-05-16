@@ -155,3 +155,6 @@ body {
 .pin {
     color: red;
 }
+.d-none{
+    display:None;
+}
